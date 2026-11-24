@@ -1,0 +1,4388 @@
+{
+  "as_of": "2026-09-07T05:00:00",
+  "week": "2026-W37",
+  "data_dir": "data",
+  "previous_closes": [
+    {
+      "week": "2026-W35",
+      "known_through": "2026-08-31T13:00:00",
+      "issued_at": "2026-09-01T02:00:00",
+      "recipient": "运营"
+    },
+    {
+      "week": "2026-W35",
+      "known_through": "2026-08-31T13:00:00",
+      "issued_at": "2026-09-01T02:00:00",
+      "recipient": "T2"
+    }
+  ],
+  "coverage_overall": {
+    "denominator": 120,
+    "counts": {
+      "可筛": 39,
+      "无可售规格": 10,
+      "证据未判定": 39,
+      "当周资料空白": 5,
+      "已判定无声明": 27
+    },
+    "shares": {
+      "可筛": 0.325,
+      "无可售规格": 0.0833,
+      "证据未判定": 0.325,
+      "当周资料空白": 0.0417,
+      "已判定无声明": 0.225
+    }
+  },
+  "coverage_by_attribute": {
+    "未加蔗糖": {
+      "denominator": 120,
+      "counts": {
+        "可筛": 20,
+        "无可售规格": 80,
+        "证据未判定": 20,
+        "当周资料空白": 0,
+        "已判定无声明": 0
+      },
+      "shares": {
+        "可筛": 0.1667,
+        "无可售规格": 0.6667,
+        "证据未判定": 0.1667,
+        "当周资料空白": 0.0,
+        "已判定无声明": 0.0
+      }
+    },
+    "总糖已标": {
+      "denominator": 120,
+      "counts": {
+        "可筛": 32,
+        "无可售规格": 10,
+        "证据未判定": 35,
+        "当周资料空白": 16,
+        "已判定无声明": 27
+      },
+      "shares": {
+        "可筛": 0.2667,
+        "无可售规格": 0.0833,
+        "证据未判定": 0.2917,
+        "当周资料空白": 0.1333,
+        "已判定无声明": 0.225
+      }
+    }
+  },
+  "coverage_by_topic": {
+    "T1": {
+      "denominator": 55,
+      "counts": {
+        "可筛": 24,
+        "无可售规格": 0,
+        "证据未判定": 4,
+        "当周资料空白": 0,
+        "已判定无声明": 27
+      },
+      "shares": {
+        "可筛": 0.4364,
+        "无可售规格": 0.0,
+        "证据未判定": 0.0727,
+        "当周资料空白": 0.0,
+        "已判定无声明": 0.4909
+      }
+    },
+    "T2": {
+      "denominator": 54,
+      "counts": {
+        "可筛": 17,
+        "无可售规格": 0,
+        "证据未判定": 24,
+        "当周资料空白": 13,
+        "已判定无声明": 0
+      },
+      "shares": {
+        "可筛": 0.3148,
+        "无可售规格": 0.0,
+        "证据未判定": 0.4444,
+        "当周资料空白": 0.2407,
+        "已判定无声明": 0.0
+      }
+    },
+    "T3": {
+      "denominator": 27,
+      "counts": {
+        "可筛": 0,
+        "无可售规格": 10,
+        "证据未判定": 17,
+        "当周资料空白": 0,
+        "已判定无声明": 0
+      },
+      "shares": {
+        "可筛": 0.0,
+        "无可售规格": 0.3704,
+        "证据未判定": 0.6296,
+        "当周资料空白": 0.0,
+        "已判定无声明": 0.0
+      }
+    }
+  },
+  "coverage_by_region": {
+    "东": {
+      "denominator": 67,
+      "counts": {
+        "可筛": 25,
+        "无可售规格": 0,
+        "证据未判定": 10,
+        "当周资料空白": 5,
+        "已判定无声明": 27
+      },
+      "shares": {
+        "可筛": 0.3731,
+        "无可售规格": 0.0,
+        "证据未判定": 0.1493,
+        "当周资料空白": 0.0746,
+        "已判定无声明": 0.403
+      }
+    },
+    "南": {
+      "denominator": 53,
+      "counts": {
+        "可筛": 14,
+        "无可售规格": 10,
+        "证据未判定": 29,
+        "当周资料空白": 0,
+        "已判定无声明": 0
+      },
+      "shares": {
+        "可筛": 0.2642,
+        "无可售规格": 0.1887,
+        "证据未判定": 0.5472,
+        "当周资料空白": 0.0,
+        "已判定无声明": 0.0
+      }
+    }
+  },
+  "root_cause": {
+    "deduped_page_units": 120,
+    "可筛": 39,
+    "无可售规格": 10,
+    "可售但不可筛": 71,
+    "可售但不可筛明细": {
+      "证据未判定": 39,
+      "当周资料空白": 5,
+      "已判定无声明": 27
+    }
+  },
+  "attainment": {
+    "T1": {
+      "topic": "T1",
+      "units": 55,
+      "credited": 0,
+      "sole": 0,
+      "joint": 0,
+      "spillover": 11,
+      "gaps": 31,
+      "in_transit": 0,
+      "attainment": 0.0
+    },
+    "T2": {
+      "topic": "T2",
+      "units": 54,
+      "credited": 17,
+      "sole": 17,
+      "joint": 0,
+      "spillover": 0,
+      "gaps": 37,
+      "in_transit": 0,
+      "attainment": 0.3148
+    },
+    "T3": {
+      "topic": "T3",
+      "units": 27,
+      "credited": 0,
+      "sole": 0,
+      "joint": 0,
+      "spillover": 0,
+      "gaps": 27,
+      "in_transit": 17,
+      "attainment": 0.0
+    }
+  },
+  "team_ledgers": {
+    "丙": {
+      "sole_units": 0,
+      "joint_units": 0,
+      "disputed_units": 0,
+      "in_transit_claims": [
+        "c4"
+      ],
+      "by_topic": {}
+    },
+    "乙": {
+      "sole_units": 28,
+      "joint_units": 0,
+      "disputed_units": 8,
+      "in_transit_claims": [],
+      "by_topic": {
+        "T1": {
+          "单独": 0,
+          "共同": 0,
+          "争议重审": 0,
+          "spillover": 11
+        },
+        "T2": {
+          "单独": 17,
+          "共同": 0,
+          "争议重审": 8,
+          "spillover": 0
+        }
+      }
+    },
+    "甲": {
+      "sole_units": 0,
+      "joint_units": 0,
+      "disputed_units": 8,
+      "in_transit_claims": [],
+      "by_topic": {
+        "T2": {
+          "单独": 0,
+          "共同": 0,
+          "争议重审": 8,
+          "spillover": 0
+        }
+      }
+    }
+  },
+  "group_reduction": {
+    "joint_reduced_page_units": 26,
+    "total_page_units": 120,
+    "team_page_credit": {
+      "乙": 26
+    },
+    "team_credit_sum": 26,
+    "cap_respected": true
+  },
+  "open_gaps": [
+    {
+      "unit": [
+        "甲",
+        "s00",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e1"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "未加蔗糖"
+      ]
+    },
+    {
+      "unit": [
+        "乙",
+        "s00",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e2"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "未加蔗糖"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s01",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e3"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s01",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "证据未判定",
+      "events": [
+        "e4"
+      ],
+      "in_transit_claims": [
+        "c4"
+      ],
+      "note": "",
+      "skus": [
+        "c1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s02",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e6"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "未加蔗糖"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s02",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e8"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "乙",
+        "s03",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "无可售规格",
+      "events": [
+        "e9"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [],
+      "attributes": []
+    },
+    {
+      "unit": [
+        "甲",
+        "s03",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "当周资料空白",
+      "events": [
+        "e11"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s04",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e13"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s04",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "证据未判定",
+      "events": [
+        "e14"
+      ],
+      "in_transit_claims": [
+        "c4"
+      ],
+      "note": "",
+      "skus": [
+        "c1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s05",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "当周资料空白",
+      "events": [
+        "e16"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s05",
+        "p1",
+        "T2",
+        "南"
+      ],
+      "topic": "T2",
+      "region": "南",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e17"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "乙",
+        "s06",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e18"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s06",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "证据未判定",
+      "events": [
+        "e19"
+      ],
+      "in_transit_claims": [
+        "c4"
+      ],
+      "note": "",
+      "skus": [
+        "c1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s06",
+        "p1",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e20"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "总糖已标",
+        "未加蔗糖"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s07",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e21"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "总糖已标",
+        "未加蔗糖"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s07",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e23"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s08",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "无可售规格",
+      "events": [
+        "e24"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [],
+      "attributes": []
+    },
+    {
+      "unit": [
+        "甲",
+        "s08",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "当周资料空白",
+      "events": [
+        "e26"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "乙",
+        "s09",
+        "p1",
+        "T2",
+        "南"
+      ],
+      "topic": "T2",
+      "region": "南",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e27"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s09",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e28"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s09",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "证据未判定",
+      "events": [
+        "e29"
+      ],
+      "in_transit_claims": [
+        "c4"
+      ],
+      "note": "",
+      "skus": [
+        "c1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s10",
+        "p1",
+        "T2",
+        "南"
+      ],
+      "topic": "T2",
+      "region": "南",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e32"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s11",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e33"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s11",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "无可售规格",
+      "events": [
+        "e34"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [],
+      "attributes": []
+    },
+    {
+      "unit": [
+        "乙",
+        "s12",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e36"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "总糖已标",
+        "未加蔗糖"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s12",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e38"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s13",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "证据未判定",
+      "events": [
+        "e39"
+      ],
+      "in_transit_claims": [
+        "c4"
+      ],
+      "note": "",
+      "skus": [
+        "c1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s13",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "当周资料空白",
+      "events": [
+        "e41"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s14",
+        "p1",
+        "T2",
+        "南"
+      ],
+      "topic": "T2",
+      "region": "南",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e42"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s14",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e43"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s14",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "证据未判定",
+      "events": [
+        "e44"
+      ],
+      "in_transit_claims": [
+        "c4"
+      ],
+      "note": "",
+      "skus": [
+        "c1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "乙",
+        "s15",
+        "p1",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e45"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "总糖已标",
+        "未加蔗糖"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s15",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e46"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "未加蔗糖"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s16",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e48"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s16",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "无可售规格",
+      "events": [
+        "e49"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [],
+      "attributes": []
+    },
+    {
+      "unit": [
+        "甲",
+        "s17",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "当周资料空白",
+      "events": [
+        "e51"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s17",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e53"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "乙",
+        "s18",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "证据未判定",
+      "events": [
+        "e54"
+      ],
+      "in_transit_claims": [
+        "c4"
+      ],
+      "note": "",
+      "skus": [
+        "c1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s18",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "当周资料空白",
+      "events": [
+        "e56"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s19",
+        "p1",
+        "T2",
+        "南"
+      ],
+      "topic": "T2",
+      "region": "南",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e57"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s19",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e58"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s19",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "证据未判定",
+      "events": [
+        "e59"
+      ],
+      "in_transit_claims": [
+        "c4"
+      ],
+      "note": "",
+      "skus": [
+        "c1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s20",
+        "p1",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e60"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "总糖已标",
+        "未加蔗糖"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s20",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e61"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "未加蔗糖"
+      ]
+    },
+    {
+      "unit": [
+        "乙",
+        "s21",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e63"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s21",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "无可售规格",
+      "events": [
+        "e64"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [],
+      "attributes": []
+    },
+    {
+      "unit": [
+        "甲",
+        "s22",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "当周资料空白",
+      "events": [
+        "e66"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s22",
+        "p1",
+        "T2",
+        "南"
+      ],
+      "topic": "T2",
+      "region": "南",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e67"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s22",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e68"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s23",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "证据未判定",
+      "events": [
+        "e69"
+      ],
+      "in_transit_claims": [
+        "c4"
+      ],
+      "note": "",
+      "skus": [
+        "c1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "乙",
+        "s24",
+        "p1",
+        "T2",
+        "南"
+      ],
+      "topic": "T2",
+      "region": "南",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e72"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s24",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e73"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s24",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "无可售规格",
+      "events": [
+        "e74"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [],
+      "attributes": []
+    },
+    {
+      "unit": [
+        "甲",
+        "s25",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e76"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "总糖已标",
+        "未加蔗糖"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s26",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e78"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s26",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "证据未判定",
+      "events": [
+        "e79"
+      ],
+      "in_transit_claims": [
+        "c4"
+      ],
+      "note": "",
+      "skus": [
+        "c1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "乙",
+        "s27",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "当周资料空白",
+      "events": [
+        "e81"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s27",
+        "p1",
+        "T2",
+        "南"
+      ],
+      "topic": "T2",
+      "region": "南",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e82"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s27",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e83"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s28",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "证据未判定",
+      "events": [
+        "e84"
+      ],
+      "in_transit_claims": [
+        "c4"
+      ],
+      "note": "",
+      "skus": [
+        "c1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s28",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e86"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "未加蔗糖"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s29",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e88"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s29",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "无可售规格",
+      "events": [
+        "e89"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [],
+      "attributes": []
+    },
+    {
+      "unit": [
+        "甲",
+        "s30",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "当周资料空白",
+      "events": [
+        "e91"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s31",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e93"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s31",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "证据未判定",
+      "events": [
+        "e94"
+      ],
+      "in_transit_claims": [
+        "c4"
+      ],
+      "note": "",
+      "skus": [
+        "c1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s32",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "当周资料空白",
+      "events": [
+        "e96"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s32",
+        "p1",
+        "T2",
+        "南"
+      ],
+      "topic": "T2",
+      "region": "南",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e97"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s32",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e98"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "乙",
+        "s33",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "证据未判定",
+      "events": [
+        "e99"
+      ],
+      "in_transit_claims": [
+        "c4"
+      ],
+      "note": "",
+      "skus": [
+        "c1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s33",
+        "p1",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e100"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "总糖已标",
+        "未加蔗糖"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s33",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e101"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "未加蔗糖"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s34",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e103"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s34",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "无可售规格",
+      "events": [
+        "e104"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [],
+      "attributes": []
+    },
+    {
+      "unit": [
+        "甲",
+        "s35",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "当周资料空白",
+      "events": [
+        "e106"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s35",
+        "p1",
+        "T2",
+        "南"
+      ],
+      "topic": "T2",
+      "region": "南",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e107"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "乙",
+        "s36",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e108"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s36",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "证据未判定",
+      "events": [
+        "e109"
+      ],
+      "in_transit_claims": [
+        "c4"
+      ],
+      "note": "",
+      "skus": [
+        "c1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s37",
+        "p1",
+        "T2",
+        "南"
+      ],
+      "topic": "T2",
+      "region": "南",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e112"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s37",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e113"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s38",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "无可售规格",
+      "events": [
+        "e114"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [],
+      "attributes": []
+    },
+    {
+      "unit": [
+        "甲",
+        "s38",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e116"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "总糖已标",
+        "未加蔗糖"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s39",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e118"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s39",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "证据未判定",
+      "events": [
+        "e119"
+      ],
+      "in_transit_claims": [
+        "c4"
+      ],
+      "note": "",
+      "skus": [
+        "c1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s40",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "当周资料空白",
+      "events": [
+        "e121"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s40",
+        "p1",
+        "T2",
+        "南"
+      ],
+      "topic": "T2",
+      "region": "南",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e122"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s41",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e123"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s41",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "证据未判定",
+      "events": [
+        "e124"
+      ],
+      "in_transit_claims": [
+        "c4"
+      ],
+      "note": "",
+      "skus": [
+        "c1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "乙",
+        "s42",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "证据未判定",
+      "events": [
+        "e126"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a2"
+      ],
+      "attributes": [
+        "未加蔗糖"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s42",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e128"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s43",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "无可售规格",
+      "events": [
+        "e129"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [],
+      "attributes": []
+    },
+    {
+      "unit": [
+        "甲",
+        "s43",
+        "p1",
+        "T2",
+        "东"
+      ],
+      "topic": "T2",
+      "region": "东",
+      "page": "p1",
+      "status": "当周资料空白",
+      "events": [
+        "e131"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "a1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s44",
+        "p2",
+        "T1",
+        "东"
+      ],
+      "topic": "T1",
+      "region": "东",
+      "page": "p2",
+      "status": "已判定无声明",
+      "events": [
+        "e133"
+      ],
+      "in_transit_claims": [],
+      "note": "",
+      "skus": [
+        "b1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    },
+    {
+      "unit": [
+        "甲",
+        "s44",
+        "p3",
+        "T3",
+        "南"
+      ],
+      "topic": "T3",
+      "region": "南",
+      "page": "p3",
+      "status": "证据未判定",
+      "events": [
+        "e134"
+      ],
+      "in_transit_claims": [
+        "c4"
+      ],
+      "note": "",
+      "skus": [
+        "c1"
+      ],
+      "attributes": [
+        "总糖已标"
+      ]
+    }
+  ],
+  "in_transit": [
+    {
+      "claim": "c4",
+      "team": "丙",
+      "sku": "c1",
+      "region": "南",
+      "attribute": "总糖已标",
+      "topic": "T3",
+      "accepted_at": "2026-08-28T09:15:00",
+      "reason": "资料已登记但搜索页尚未确认更新，保留在途，不充目标"
+    }
+  ],
+  "snapshot_diff": {
+    "reopened": [
+      {
+        "unit": [
+          "甲",
+          "s00",
+          "p1",
+          "T2",
+          "东"
+        ],
+        "topic": "T2",
+        "region": "东",
+        "page": "p1",
+        "claim": "c2",
+        "team": "乙",
+        "shape": "共同",
+        "spillover": false,
+        "old_status": "可筛",
+        "new_status": "证据未判定",
+        "new_credits": {},
+        "in_transit": [],
+        "reason": "原支撑证据被撤或更正，已结算缺口重新打开，整笔重审"
+      },
+      {
+        "unit": [
+          "甲",
+          "s00",
+          "p1",
+          "T2",
+          "东"
+        ],
+        "topic": "T2",
+        "region": "东",
+        "page": "p1",
+        "claim": "c1",
+        "team": "甲",
+        "shape": "共同",
+        "spillover": true,
+        "old_status": "可筛",
+        "new_status": "证据未判定",
+        "new_credits": {},
+        "in_transit": [],
+        "reason": "原支撑证据被撤或更正，已结算缺口重新打开，整笔重审"
+      },
+      {
+        "unit": [
+          "乙",
+          "s00",
+          "p1",
+          "T2",
+          "东"
+        ],
+        "topic": "T2",
+        "region": "东",
+        "page": "p1",
+        "claim": "c2",
+        "team": "乙",
+        "shape": "共同",
+        "spillover": false,
+        "old_status": "可筛",
+        "new_status": "证据未判定",
+        "new_credits": {},
+        "in_transit": [],
+        "reason": "原支撑证据被撤或更正，已结算缺口重新打开，整笔重审"
+      },
+      {
+        "unit": [
+          "乙",
+          "s00",
+          "p1",
+          "T2",
+          "东"
+        ],
+        "topic": "T2",
+        "region": "东",
+        "page": "p1",
+        "claim": "c1",
+        "team": "甲",
+        "shape": "共同",
+        "spillover": true,
+        "old_status": "可筛",
+        "new_status": "证据未判定",
+        "new_credits": {},
+        "in_transit": [],
+        "reason": "原支撑证据被撤或更正，已结算缺口重新打开，整笔重审"
+      },
+      {
+        "unit": [
+          "甲",
+          "s02",
+          "p1",
+          "T2",
+          "东"
+        ],
+        "topic": "T2",
+        "region": "东",
+        "page": "p1",
+        "claim": "c2",
+        "team": "乙",
+        "shape": "共同",
+        "spillover": false,
+        "old_status": "可筛",
+        "new_status": "证据未判定",
+        "new_credits": {},
+        "in_transit": [],
+        "reason": "原支撑证据被撤或更正，已结算缺口重新打开，整笔重审"
+      },
+      {
+        "unit": [
+          "甲",
+          "s02",
+          "p1",
+          "T2",
+          "东"
+        ],
+        "topic": "T2",
+        "region": "东",
+        "page": "p1",
+        "claim": "c1",
+        "team": "甲",
+        "shape": "共同",
+        "spillover": true,
+        "old_status": "可筛",
+        "new_status": "证据未判定",
+        "new_credits": {},
+        "in_transit": [],
+        "reason": "原支撑证据被撤或更正，已结算缺口重新打开，整笔重审"
+      },
+      {
+        "unit": [
+          "甲",
+          "s15",
+          "p1",
+          "T2",
+          "东"
+        ],
+        "topic": "T2",
+        "region": "东",
+        "page": "p1",
+        "claim": "c2",
+        "team": "乙",
+        "shape": "共同",
+        "spillover": false,
+        "old_status": "可筛",
+        "new_status": "证据未判定",
+        "new_credits": {},
+        "in_transit": [],
+        "reason": "原支撑证据被撤或更正，已结算缺口重新打开，整笔重审"
+      },
+      {
+        "unit": [
+          "甲",
+          "s15",
+          "p1",
+          "T2",
+          "东"
+        ],
+        "topic": "T2",
+        "region": "东",
+        "page": "p1",
+        "claim": "c1",
+        "team": "甲",
+        "shape": "共同",
+        "spillover": true,
+        "old_status": "可筛",
+        "new_status": "证据未判定",
+        "new_credits": {},
+        "in_transit": [],
+        "reason": "原支撑证据被撤或更正，已结算缺口重新打开，整笔重审"
+      },
+      {
+        "unit": [
+          "甲",
+          "s20",
+          "p1",
+          "T2",
+          "东"
+        ],
+        "topic": "T2",
+        "region": "东",
+        "page": "p1",
+        "claim": "c2",
+        "team": "乙",
+        "shape": "共同",
+        "spillover": false,
+        "old_status": "可筛",
+        "new_status": "证据未判定",
+        "new_credits": {},
+        "in_transit": [],
+        "reason": "原支撑证据被撤或更正，已结算缺口重新打开，整笔重审"
+      },
+      {
+        "unit": [
+          "甲",
+          "s20",
+          "p1",
+          "T2",
+          "东"
+        ],
+        "topic": "T2",
+        "region": "东",
+        "page": "p1",
+        "claim": "c1",
+        "team": "甲",
+        "shape": "共同",
+        "spillover": true,
+        "old_status": "可筛",
+        "new_status": "证据未判定",
+        "new_credits": {},
+        "in_transit": [],
+        "reason": "原支撑证据被撤或更正，已结算缺口重新打开，整笔重审"
+      },
+      {
+        "unit": [
+          "甲",
+          "s28",
+          "p1",
+          "T2",
+          "东"
+        ],
+        "topic": "T2",
+        "region": "东",
+        "page": "p1",
+        "claim": "c2",
+        "team": "乙",
+        "shape": "共同",
+        "spillover": false,
+        "old_status": "可筛",
+        "new_status": "证据未判定",
+        "new_credits": {},
+        "in_transit": [],
+        "reason": "原支撑证据被撤或更正，已结算缺口重新打开，整笔重审"
+      },
+      {
+        "unit": [
+          "甲",
+          "s28",
+          "p1",
+          "T2",
+          "东"
+        ],
+        "topic": "T2",
+        "region": "东",
+        "page": "p1",
+        "claim": "c1",
+        "team": "甲",
+        "shape": "共同",
+        "spillover": true,
+        "old_status": "可筛",
+        "new_status": "证据未判定",
+        "new_credits": {},
+        "in_transit": [],
+        "reason": "原支撑证据被撤或更正，已结算缺口重新打开，整笔重审"
+      },
+      {
+        "unit": [
+          "甲",
+          "s33",
+          "p1",
+          "T2",
+          "东"
+        ],
+        "topic": "T2",
+        "region": "东",
+        "page": "p1",
+        "claim": "c2",
+        "team": "乙",
+        "shape": "共同",
+        "spillover": false,
+        "old_status": "可筛",
+        "new_status": "证据未判定",
+        "new_credits": {},
+        "in_transit": [],
+        "reason": "原支撑证据被撤或更正，已结算缺口重新打开，整笔重审"
+      },
+      {
+        "unit": [
+          "甲",
+          "s33",
+          "p1",
+          "T2",
+          "东"
+        ],
+        "topic": "T2",
+        "region": "东",
+        "page": "p1",
+        "claim": "c1",
+        "team": "甲",
+        "shape": "共同",
+        "spillover": true,
+        "old_status": "可筛",
+        "new_status": "证据未判定",
+        "new_credits": {},
+        "in_transit": [],
+        "reason": "原支撑证据被撤或更正，已结算缺口重新打开，整笔重审"
+      },
+      {
+        "unit": [
+          "乙",
+          "s42",
+          "p1",
+          "T2",
+          "东"
+        ],
+        "topic": "T2",
+        "region": "东",
+        "page": "p1",
+        "claim": "c2",
+        "team": "乙",
+        "shape": "共同",
+        "spillover": false,
+        "old_status": "可筛",
+        "new_status": "证据未判定",
+        "new_credits": {},
+        "in_transit": [],
+        "reason": "原支撑证据被撤或更正，已结算缺口重新打开，整笔重审"
+      },
+      {
+        "unit": [
+          "乙",
+          "s42",
+          "p1",
+          "T2",
+          "东"
+        ],
+        "topic": "T2",
+        "region": "东",
+        "page": "p1",
+        "claim": "c1",
+        "team": "甲",
+        "shape": "共同",
+        "spillover": true,
+        "old_status": "可筛",
+        "new_status": "证据未判定",
+        "new_credits": {},
+        "in_transit": [],
+        "reason": "原支撑证据被撤或更正，已结算缺口重新打开，整笔重审"
+      }
+    ],
+    "reallocated": [],
+    "self_healed": [],
+    "old_snapshot": {
+      "known_through": "2026-08-31T13:00:00",
+      "week": [
+        "2026-W35"
+      ],
+      "note": "更正前周结保留原事实截面，仅用于追溯，不被覆盖"
+    }
+  },
+  "topic_versions": {
+    "T1": [
+      {
+        "version": "v1(并)",
+        "events": 55,
+        "deduped_units": 55,
+        "comparable": "仅与同逻辑版本可比"
+      }
+    ],
+    "T2": [
+      {
+        "version": "v1(交)",
+        "events": 47,
+        "deduped_units": 47,
+        "comparable": "仅与同逻辑版本可比"
+      },
+      {
+        "version": "v2(并)",
+        "events": 7,
+        "deduped_units": 7,
+        "comparable": "仅与同逻辑版本可比"
+      }
+    ],
+    "T3": [
+      {
+        "version": "v1(并)",
+        "events": 27,
+        "deduped_units": 27,
+        "comparable": "仅与同逻辑版本可比"
+      }
+    ]
+  },
+  "family_continuity": [
+    {
+      "family": "A",
+      "timeline": [
+        {
+          "sku": "a1",
+          "region": "东",
+          "window": [
+            "2026-08-24T00:00:00",
+            "2026-08-28T00:00:00"
+          ],
+          "map_version": "m1",
+          "page": "p1"
+        },
+        {
+          "sku": "a2",
+          "region": "东",
+          "window": [
+            "2026-08-28T00:00:00",
+            "2026-09-08T00:00:00"
+          ],
+          "map_version": "m2",
+          "page": "p1"
+        },
+        {
+          "sku": "a2",
+          "region": "南",
+          "window": [
+            "2026-08-24T00:00:00",
+            "2026-09-08T00:00:00"
+          ],
+          "map_version": "m1",
+          "page": "p1"
+        }
+      ],
+      "note": "同配方换码可跨周对照原周口径，规格级事实不自动继承"
+    },
+    {
+      "family": "B",
+      "timeline": [
+        {
+          "sku": "b1",
+          "region": "东",
+          "window": [
+            "2026-08-24T00:00:00",
+            "2026-09-08T00:00:00"
+          ],
+          "map_version": "m1",
+          "page": "p2"
+        }
+      ],
+      "note": "同配方换码可跨周对照原周口径，规格级事实不自动继承"
+    },
+    {
+      "family": "C",
+      "timeline": [
+        {
+          "sku": "c1",
+          "region": "南",
+          "window": [
+            "2026-08-27T00:00:00",
+            "2026-09-08T00:00:00"
+          ],
+          "map_version": "m1",
+          "page": "p3"
+        }
+      ],
+      "note": "同配方换码可跨周对照原周口径，规格级事实不自动继承"
+    }
+  ],
+  "planning": {
+    "gap_works": [
+      {
+        "work": [
+          "a1",
+          "东",
+          "总糖已标"
+        ],
+        "page": "p1",
+        "topics": [
+          "T2"
+        ],
+        "candidate_teams": [],
+        "governable": true,
+        "block_reason": "当周资料空白，尚无任何登记",
+        "in_transit": false,
+        "existing_claim": "",
+        "blocking_units": [
+          [
+            "甲",
+            "s03",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "甲",
+            "s05",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "甲",
+            "s08",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "甲",
+            "s13",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "甲",
+            "s17",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "甲",
+            "s18",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "甲",
+            "s22",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "乙",
+            "s27",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "甲",
+            "s30",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "甲",
+            "s32",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "甲",
+            "s35",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "甲",
+            "s40",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "甲",
+            "s43",
+            "p1",
+            "T2",
+            "东"
+          ]
+        ]
+      },
+      {
+        "work": [
+          "a2",
+          "东",
+          "总糖已标"
+        ],
+        "page": "p1",
+        "topics": [
+          "T1",
+          "T2"
+        ],
+        "candidate_teams": [
+          "乙"
+        ],
+        "governable": true,
+        "block_reason": "证据未判定，需补支持证据或更正",
+        "in_transit": false,
+        "existing_claim": "",
+        "blocking_units": [
+          [
+            "甲",
+            "s06",
+            "p1",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s07",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "乙",
+            "s12",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "乙",
+            "s15",
+            "p1",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s20",
+            "p1",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s25",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "甲",
+            "s33",
+            "p1",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s38",
+            "p1",
+            "T2",
+            "东"
+          ]
+        ]
+      },
+      {
+        "work": [
+          "a2",
+          "东",
+          "未加蔗糖"
+        ],
+        "page": "p1",
+        "topics": [
+          "T2",
+          "T1"
+        ],
+        "candidate_teams": [
+          "甲"
+        ],
+        "governable": true,
+        "block_reason": "证据未判定，需补支持证据或更正",
+        "in_transit": false,
+        "existing_claim": "",
+        "blocking_units": [
+          [
+            "甲",
+            "s00",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "乙",
+            "s00",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "甲",
+            "s02",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "甲",
+            "s06",
+            "p1",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s07",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "乙",
+            "s12",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "乙",
+            "s15",
+            "p1",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s15",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "甲",
+            "s20",
+            "p1",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s20",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "甲",
+            "s25",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "甲",
+            "s28",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "甲",
+            "s33",
+            "p1",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s33",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "甲",
+            "s38",
+            "p1",
+            "T2",
+            "东"
+          ],
+          [
+            "乙",
+            "s42",
+            "p1",
+            "T2",
+            "东"
+          ]
+        ]
+      },
+      {
+        "work": [
+          "a2",
+          "南",
+          "总糖已标"
+        ],
+        "page": "p1",
+        "topics": [
+          "T2"
+        ],
+        "candidate_teams": [
+          "乙"
+        ],
+        "governable": true,
+        "block_reason": "证据未判定，需补支持证据或更正",
+        "in_transit": false,
+        "existing_claim": "",
+        "blocking_units": [
+          [
+            "甲",
+            "s05",
+            "p1",
+            "T2",
+            "南"
+          ],
+          [
+            "乙",
+            "s09",
+            "p1",
+            "T2",
+            "南"
+          ],
+          [
+            "甲",
+            "s10",
+            "p1",
+            "T2",
+            "南"
+          ],
+          [
+            "甲",
+            "s14",
+            "p1",
+            "T2",
+            "南"
+          ],
+          [
+            "甲",
+            "s19",
+            "p1",
+            "T2",
+            "南"
+          ],
+          [
+            "甲",
+            "s22",
+            "p1",
+            "T2",
+            "南"
+          ],
+          [
+            "乙",
+            "s24",
+            "p1",
+            "T2",
+            "南"
+          ],
+          [
+            "甲",
+            "s27",
+            "p1",
+            "T2",
+            "南"
+          ],
+          [
+            "甲",
+            "s32",
+            "p1",
+            "T2",
+            "南"
+          ],
+          [
+            "甲",
+            "s35",
+            "p1",
+            "T2",
+            "南"
+          ],
+          [
+            "甲",
+            "s37",
+            "p1",
+            "T2",
+            "南"
+          ],
+          [
+            "甲",
+            "s40",
+            "p1",
+            "T2",
+            "南"
+          ]
+        ]
+      },
+      {
+        "work": [
+          "b1",
+          "东",
+          "总糖已标"
+        ],
+        "page": "p2",
+        "topics": [
+          "T1"
+        ],
+        "candidate_teams": [],
+        "governable": false,
+        "block_reason": "已判定无声明，需商品侧而非资料侧治理",
+        "in_transit": false,
+        "existing_claim": "",
+        "blocking_units": [
+          [
+            "甲",
+            "s01",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s02",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s04",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "乙",
+            "s06",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s07",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s09",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s11",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s12",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s14",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s16",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s17",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s19",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "乙",
+            "s21",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s22",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s24",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s26",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s27",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s29",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s31",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s32",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s34",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "乙",
+            "s36",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s37",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s39",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s41",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s42",
+            "p2",
+            "T1",
+            "东"
+          ],
+          [
+            "甲",
+            "s44",
+            "p2",
+            "T1",
+            "东"
+          ]
+        ]
+      },
+      {
+        "work": [
+          "c1",
+          "南",
+          "总糖已标"
+        ],
+        "page": "p3",
+        "topics": [
+          "T3"
+        ],
+        "candidate_teams": [
+          "丙"
+        ],
+        "governable": true,
+        "block_reason": "证据未判定，需补支持证据或更正",
+        "in_transit": true,
+        "existing_claim": "c4",
+        "blocking_units": [
+          [
+            "甲",
+            "s01",
+            "p3",
+            "T3",
+            "南"
+          ],
+          [
+            "甲",
+            "s04",
+            "p3",
+            "T3",
+            "南"
+          ],
+          [
+            "甲",
+            "s06",
+            "p3",
+            "T3",
+            "南"
+          ],
+          [
+            "甲",
+            "s09",
+            "p3",
+            "T3",
+            "南"
+          ],
+          [
+            "甲",
+            "s13",
+            "p3",
+            "T3",
+            "南"
+          ],
+          [
+            "甲",
+            "s14",
+            "p3",
+            "T3",
+            "南"
+          ],
+          [
+            "乙",
+            "s18",
+            "p3",
+            "T3",
+            "南"
+          ],
+          [
+            "甲",
+            "s19",
+            "p3",
+            "T3",
+            "南"
+          ],
+          [
+            "甲",
+            "s23",
+            "p3",
+            "T3",
+            "南"
+          ],
+          [
+            "甲",
+            "s26",
+            "p3",
+            "T3",
+            "南"
+          ],
+          [
+            "甲",
+            "s28",
+            "p3",
+            "T3",
+            "南"
+          ],
+          [
+            "甲",
+            "s31",
+            "p3",
+            "T3",
+            "南"
+          ],
+          [
+            "乙",
+            "s33",
+            "p3",
+            "T3",
+            "南"
+          ],
+          [
+            "甲",
+            "s36",
+            "p3",
+            "T3",
+            "南"
+          ],
+          [
+            "甲",
+            "s39",
+            "p3",
+            "T3",
+            "南"
+          ],
+          [
+            "甲",
+            "s41",
+            "p3",
+            "T3",
+            "南"
+          ],
+          [
+            "甲",
+            "s44",
+            "p3",
+            "T3",
+            "南"
+          ]
+        ]
+      }
+    ],
+    "baseline": {
+      "mode": "保留承诺",
+      "expected_reduction": {
+        "东": 0,
+        "南": 0
+      },
+      "coverage_after": {
+        "东": 0.1791,
+        "南": 0.2642
+      },
+      "meets_standard": {
+        "东": false,
+        "南": false
+      },
+      "blocked_on": [
+        "东覆盖率 0.1791 低于合同 0.71，缺口 0.5309",
+        "南覆盖率 0.2642 低于合同 0.69，缺口 0.4258"
+      ],
+      "assignments": [
+        {
+          "window": "w1",
+          "region": "东",
+          "opens": "2026-09-07T06:00:00",
+          "closes": "2026-09-07T09:00:00",
+          "team": "甲",
+          "work": null,
+          "reason": "保留既有承诺 c1"
+        },
+        {
+          "window": "w4",
+          "region": "南",
+          "opens": "2026-09-07T10:00:00",
+          "closes": "2026-09-07T13:00:00",
+          "team": "丙",
+          "work": null,
+          "reason": "保留既有承诺 c4"
+        }
+      ]
+    },
+    "best_reassign": {
+      "mode": "改派",
+      "expected_reduction": {
+        "东": 0,
+        "南": 12
+      },
+      "coverage_after": {
+        "东": 0.1791,
+        "南": 0.4906
+      },
+      "meets_standard": {
+        "东": false,
+        "南": false
+      },
+      "blocked_on": [
+        "东覆盖率 0.1791 低于合同 0.71，缺口 0.5309",
+        "南覆盖率 0.4906 低于合同 0.69，缺口 0.1994"
+      ],
+      "assignments": [
+        {
+          "window": "w1",
+          "region": "东",
+          "opens": "2026-09-07T06:00:00",
+          "closes": "2026-09-07T09:00:00",
+          "team": "甲",
+          "work": null,
+          "reason": "保留既有承诺 c1"
+        },
+        {
+          "window": "w4",
+          "region": "南",
+          "opens": "2026-09-07T10:00:00",
+          "closes": "2026-09-07T13:00:00",
+          "team": "丙",
+          "work": null,
+          "reason": "保留既有承诺 c4"
+        },
+        {
+          "window": "w3",
+          "region": "南",
+          "opens": "2026-09-07T08:00:00",
+          "closes": "2026-09-07T11:00:00",
+          "team": "乙",
+          "work": [
+            "a2",
+            "南",
+            "总糖已标"
+          ],
+          "reason": ""
+        }
+      ]
+    },
+    "best_joint": {
+      "mode": "合做",
+      "expected_reduction": {
+        "东": 4,
+        "南": 17
+      },
+      "coverage_after": {
+        "东": 0.2388,
+        "南": 0.5849
+      },
+      "meets_standard": {
+        "东": false,
+        "南": false
+      },
+      "blocked_on": [
+        "东覆盖率 0.2388 低于合同 0.71，缺口 0.4712",
+        "南覆盖率 0.5849 低于合同 0.69，缺口 0.1051"
+      ],
+      "assignments": [
+        {
+          "window": "w1",
+          "region": "东",
+          "opens": "2026-09-07T06:00:00",
+          "closes": "2026-09-07T09:00:00",
+          "team": "甲",
+          "work": null,
+          "reason": "保留既有承诺 c1"
+        },
+        {
+          "window": "w4",
+          "region": "南",
+          "opens": "2026-09-07T10:00:00",
+          "closes": "2026-09-07T13:00:00",
+          "team": "丙",
+          "work": null,
+          "reason": "保留既有承诺 c4"
+        },
+        {
+          "window": "w2",
+          "region": "东",
+          "opens": "2026-09-07T07:00:00",
+          "closes": "2026-09-07T10:00:00",
+          "team": "乙",
+          "work": [
+            "a2",
+            "东",
+            "总糖已标"
+          ],
+          "reason": "跨班组合做：窗口班组 甲，由事实责任团队 乙 执行"
+        },
+        {
+          "window": "w3",
+          "region": "南",
+          "opens": "2026-09-07T08:00:00",
+          "closes": "2026-09-07T11:00:00",
+          "team": "丙",
+          "work": [
+            "c1",
+            "南",
+            "总糖已标"
+          ],
+          "reason": "跨班组合做：窗口班组 乙，由事实责任团队 丙 执行"
+        }
+      ]
+    },
+    "shortages": [
+      "东缺窗口：3 项共用事实工作，仅 1 个未承诺窗口（w2）",
+      "东 b1/总糖已标 不可由资料治理解决：已判定无声明，需商品侧而非资料侧治理",
+      "南缺窗口：2 项共用事实工作，仅 1 个未承诺窗口（w3）"
+    ]
+  },
+  "drill_sample": [
+    {
+      "event": "e0",
+      "topic": "T1",
+      "version": 1,
+      "logic": "并",
+      "page": "p1",
+      "region": "东",
+      "seen_at": "2026-08-29T10:45:00",
+      "conditions": [
+        "未加蔗糖",
+        "总糖已标"
+      ],
+      "status": "可筛",
+      "skus": [
+        {
+          "sku": "a2",
+          "family": "A",
+          "map_version": "m2",
+          "window": [
+            "2026-08-28T00:00:00",
+            "2026-09-08T00:00:00"
+          ],
+          "attributes": {
+            "未加蔗糖": {
+              "state": "未知",
+              "registered": true,
+              "effective": true,
+              "fact": "f6",
+              "team": "甲"
+            },
+            "总糖已标": {
+              "state": "支持",
+              "registered": true,
+              "effective": true,
+              "fact": "f5",
+              "team": "乙"
+            }
+          },
+          "matches": true
+        }
+      ]
+    },
+    {
+      "event": "e1",
+      "topic": "T2",
+      "version": 1,
+      "logic": "交",
+      "page": "p1",
+      "region": "东",
+      "seen_at": "2026-08-29T10:46:00",
+      "conditions": [
+        "未加蔗糖",
+        "总糖已标"
+      ],
+      "status": "证据未判定",
+      "skus": [
+        {
+          "sku": "a2",
+          "family": "A",
+          "map_version": "m2",
+          "window": [
+            "2026-08-28T00:00:00",
+            "2026-09-08T00:00:00"
+          ],
+          "attributes": {
+            "未加蔗糖": {
+              "state": "未知",
+              "registered": true,
+              "effective": true,
+              "fact": "f6",
+              "team": "甲"
+            },
+            "总糖已标": {
+              "state": "支持",
+              "registered": true,
+              "effective": true,
+              "fact": "f5",
+              "team": "乙"
+            }
+          },
+          "matches": false
+        }
+      ]
+    },
+    {
+      "event": "e2",
+      "topic": "T2",
+      "version": 1,
+      "logic": "交",
+      "page": "p1",
+      "region": "东",
+      "seen_at": "2026-08-29T10:47:00",
+      "conditions": [
+        "未加蔗糖",
+        "总糖已标"
+      ],
+      "status": "证据未判定",
+      "skus": [
+        {
+          "sku": "a2",
+          "family": "A",
+          "map_version": "m2",
+          "window": [
+            "2026-08-28T00:00:00",
+            "2026-09-08T00:00:00"
+          ],
+          "attributes": {
+            "未加蔗糖": {
+              "state": "未知",
+              "registered": true,
+              "effective": true,
+              "fact": "f6",
+              "team": "甲"
+            },
+            "总糖已标": {
+              "state": "支持",
+              "registered": true,
+              "effective": true,
+              "fact": "f5",
+              "team": "乙"
+            }
+          },
+          "matches": false
+        }
+      ]
+    },
+    {
+      "event": "e3",
+      "topic": "T1",
+      "version": 1,
+      "logic": "并",
+      "page": "p2",
+      "region": "东",
+      "seen_at": "2026-08-27T09:03:00",
+      "conditions": [
+        "总糖已标"
+      ],
+      "status": "已判定无声明",
+      "skus": [
+        {
+          "sku": "b1",
+          "family": "B",
+          "map_version": "m1",
+          "window": [
+            "2026-08-24T00:00:00",
+            "2026-09-08T00:00:00"
+          ],
+          "attributes": {
+            "总糖已标": {
+              "state": "无声明",
+              "registered": true,
+              "effective": true,
+              "fact": "f7",
+              "team": ""
+            }
+          },
+          "matches": false
+        }
+      ]
+    },
+    {
+      "event": "e4",
+      "topic": "T3",
+      "version": 1,
+      "logic": "并",
+      "page": "p3",
+      "region": "南",
+      "seen_at": "2026-08-28T10:04:00",
+      "conditions": [
+        "总糖已标"
+      ],
+      "status": "证据未判定",
+      "skus": [
+        {
+          "sku": "c1",
+          "family": "C",
+          "map_version": "m1",
+          "window": [
+            "2026-08-27T00:00:00",
+            "2026-09-08T00:00:00"
+          ],
+          "attributes": {
+            "总糖已标": {
+              "state": "未知",
+              "registered": true,
+              "effective": true,
+              "fact": "f8",
+              "team": ""
+            }
+          },
+          "matches": false
+        }
+      ]
+    },
+    {
+      "event": "e5",
+      "topic": "T1",
+      "version": 1,
+      "logic": "并",
+      "page": "p1",
+      "region": "东",
+      "seen_at": "2026-08-29T11:05:00",
+      "conditions": [
+        "未加蔗糖",
+        "总糖已标"
+      ],
+      "status": "可筛",
+      "skus": [
+        {
+          "sku": "a2",
+          "family": "A",
+          "map_version": "m2",
+          "window": [
+            "2026-08-28T00:00:00",
+            "2026-09-08T00:00:00"
+          ],
+          "attributes": {
+            "未加蔗糖": {
+              "state": "未知",
+              "registered": true,
+              "effective": true,
+              "fact": "f6",
+              "team": "甲"
+            },
+            "总糖已标": {
+              "state": "支持",
+              "registered": true,
+              "effective": true,
+              "fact": "f5",
+              "team": "乙"
+            }
+          },
+          "matches": true
+        }
+      ]
+    },
+    {
+      "event": "e6",
+      "topic": "T2",
+      "version": 1,
+      "logic": "交",
+      "page": "p1",
+      "region": "东",
+      "seen_at": "2026-08-30T09:06:00",
+      "conditions": [
+        "未加蔗糖",
+        "总糖已标"
+      ],
+      "status": "证据未判定",
+      "skus": [
+        {
+          "sku": "a2",
+          "family": "A",
+          "map_version": "m2",
+          "window": [
+            "2026-08-28T00:00:00",
+            "2026-09-08T00:00:00"
+          ],
+          "attributes": {
+            "未加蔗糖": {
+              "state": "未知",
+              "registered": true,
+              "effective": true,
+              "fact": "f6",
+              "team": "甲"
+            },
+            "总糖已标": {
+              "state": "支持",
+              "registered": true,
+              "effective": true,
+              "fact": "f5",
+              "team": "乙"
+            }
+          },
+          "matches": false
+        }
+      ]
+    },
+    {
+      "event": "e7",
+      "topic": "T2",
+      "version": 2,
+      "logic": "并",
+      "page": "p1",
+      "region": "南",
+      "seen_at": "2026-08-31T10:07:00",
+      "conditions": [
+        "总糖已标"
+      ],
+      "status": "可筛",
+      "skus": [
+        {
+          "sku": "a2",
+          "family": "A",
+          "map_version": "m1",
+          "window": [
+            "2026-08-24T00:00:00",
+            "2026-09-08T00:00:00"
+          ],
+          "attributes": {
+            "总糖已标": {
+              "state": "支持",
+              "registered": true,
+              "effective": true,
+              "fact": "f4",
+              "team": "乙"
+            }
+          },
+          "matches": true
+        }
+      ]
+    },
+    {
+      "event": "e8",
+      "topic": "T1",
+      "version": 1,
+      "logic": "并",
+      "page": "p2",
+      "region": "东",
+      "seen_at": "2026-08-24T11:08:00",
+      "conditions": [
+        "总糖已标"
+      ],
+      "status": "已判定无声明",
+      "skus": [
+        {
+          "sku": "b1",
+          "family": "B",
+          "map_version": "m1",
+          "window": [
+            "2026-08-24T00:00:00",
+            "2026-09-08T00:00:00"
+          ],
+          "attributes": {
+            "总糖已标": {
+              "state": "无声明",
+              "registered": true,
+              "effective": true,
+              "fact": "f7",
+              "team": ""
+            }
+          },
+          "matches": false
+        }
+      ]
+    },
+    {
+      "event": "e9",
+      "topic": "T3",
+      "version": 1,
+      "logic": "并",
+      "page": "p3",
+      "region": "南",
+      "seen_at": "2026-08-25T09:09:00",
+      "conditions": [
+        "总糖已标"
+      ],
+      "status": "无可售规格",
+      "skus": []
+    },
+    {
+      "event": "e10",
+      "topic": "T1",
+      "version": 1,
+      "logic": "并",
+      "page": "p1",
+      "region": "东",
+      "seen_at": "2026-08-26T10:10:00",
+      "conditions": [
+        "未加蔗糖",
+        "总糖已标"
+      ],
+      "status": "可筛",
+      "skus": [
+        {
+          "sku": "a1",
+          "family": "A",
+          "map_version": "m1",
+          "window": [
+            "2026-08-24T00:00:00",
+            "2026-08-28T00:00:00"
+          ],
+          "attributes": {
+            "未加蔗糖": {
+              "state": "支持",
+              "registered": true,
+              "effective": true,
+              "fact": "f1",
+              "team": ""
+            },
+            "总糖已标": {
+              "state": null,
+              "registered": false,
+              "effective": false,
+              "fact": null,
+              "team": ""
+            }
+          },
+          "matches": true
+        }
+      ]
+    },
+    {
+      "event": "e11",
+      "topic": "T2",
+      "version": 1,
+      "logic": "交",
+      "page": "p1",
+      "region": "东",
+      "seen_at": "2026-08-27T11:11:00",
+      "conditions": [
+        "未加蔗糖",
+        "总糖已标"
+      ],
+      "status": "资料空白",
+      "skus": [
+        {
+          "sku": "a1",
+          "family": "A",
+          "map_version": "m1",
+          "window": [
+            "2026-08-24T00:00:00",
+            "2026-08-28T00:00:00"
+          ],
+          "attributes": {
+            "未加蔗糖": {
+              "state": "支持",
+              "registered": true,
+              "effective": true,
+              "fact": "f1",
+              "team": ""
+            },
+            "总糖已标": {
+              "state": null,
+              "registered": false,
+              "effective": false,
+              "fact": null,
+              "team": ""
+            }
+          },
+          "matches": false
+        }
+      ]
+    }
+  ]
+}
